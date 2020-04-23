@@ -1,0 +1,46 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+ul {
+  color: blue;
+}
+
+ol{
+  color: purple;
+  text-align:auto;
+}
+
+#top{
+  background-color: lightblue;
+  width: 100%;
+  height: 50%;
+  margin:auto;
+  padding: inherit;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  border: 3px solid black;
+}
+
+.world{
+  font-weight: bolder;
+  font-color: darkblue;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+
+th{
+  background-color: lightgray;
+  text-align: left;
+}
